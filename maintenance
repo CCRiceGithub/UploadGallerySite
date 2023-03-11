@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Maintenance!</title>
+        <h1>The Developers are currently working on this page!</h1>
+    </head>
+    <body>
+        <img src="oh_noes.gif" />
+        <br>
+        <span>How about a game while you wait?</span>
+        <br>
+        <br>
+        <iframe src="/snake" height="500px" width="500px"></iframe>
+    </body>
+</html>
